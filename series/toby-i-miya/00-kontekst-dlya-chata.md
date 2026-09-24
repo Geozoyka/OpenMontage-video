@@ -234,3 +234,11 @@ Using the attached Mia model sheet as the exact reference, replace the small pup
 ```
 In the two lying drawings, remove the brown patch on the mother cat's back and make that area the same soft charcoal as the rest of her body. Keep everything else exactly the same.
 ```
+
+## Все 4 героя утверждены. Следующее: двор.
+
+### Двор — общий план (загрузить лист Тоби как образец стиля)
+
+```
+Using the attached Toby model sheet only as the reference for drawing style, line quality and flat colors, create a wide background painting for a gentle preschool animated series: a cozy shared backyard seen straight from the front, like a flat theatre stage, with a calm, simple layout. The yard is empty and quiet, waiting for its characters, with only objects and nature in it. In the center stands a big friendly apple tree with a round leafy crown, a few red apples and an old tire swing hanging on a rope from a low branch. On the left side there is a small wooden doghouse with a warm red roof, with a round metal dog bowl and a small faded red ball on the grass in front of it. On the right side there is the corner of a cozy house with a small wooden porch, two steps, a woven doormat and a little flowerbed with pink and yellow flowers beside it, and a small wicker basket on the porch. Behind everything runs a low wooden picket fence with a small wooden gate in it, left of the tree. Above is a soft pale blue sky with three round white clouds. The whole lower half is a wide, open, flat lawn of soft green grass, with plenty of empty space in the middle and in front for characters to play. Flat colors, soft hand-drawn outlines in a darker shade of each color, simple rounded shapes, gentle warm morning light and no dark shadows. The background colors are slightly softer and less saturated than the characters' colors, so characters placed on it will stand out. Calm, warm and friendly for toddlers. Horizontal 16:9 format.
+```
