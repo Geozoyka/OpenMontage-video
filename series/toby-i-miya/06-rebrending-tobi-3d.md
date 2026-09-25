@@ -72,3 +72,20 @@ A clean character model sheet for a gentle wordless preschool animated series in
 - Медальон вернулся: `Remove the medallion and keep only the yellow scarf with orange stripes. Keep everything else exactly the same.`
 - Надписи: `Remove all text, logos and color swatches. Keep the puppy drawings exactly the same.`
 - Пятна не там: `Make the spots match the first drawing exactly: one large navy spot on his back, one medium on his left hind thigh, one small on his right front leg. Keep everything else exactly the same.`
+
+## Итог: Тоби 3D утверждён (art/toby_3d_sheet_v1.jpg)
+
+Правило пятен ослаблено: «несколько тёмно-синих пятен на спине и лапах», места не фиксируются. Тоби узнаётся по ушам, хохолку, белой полосе и жёлтому шарфу.
+
+Необязательная правка яркости:
+```
+Make the puppy's fur a brighter, cheerful cornflower blue like in a sunny cartoon, and make his white areas clean bright white. In the sad face, raise the inner ends of his eyebrows so he looks sad rather than sleepy. Keep the 3D fur style, the poses, the scarf and everything else exactly the same.
+```
+
+## Мия 3D (загрузить лист Тоби 3D)
+
+Ленточка Мии теперь лавандовая: жёлтый остаётся только у Тоби.
+
+```
+Use the attached Toby model sheet as the exact reference for the rendering style, fur texture, lighting, background, page layout and character size: a soft 3D CGI animated-film render with fluffy fur, volumetric shading and gentle warm light. Create a matching clean character model sheet for his friend Mia, a small, round, fluffy four-legged kitten about three months old, the same height as Toby. The page contains only the kitten on the same plain very light blue-white background, with no lettering, logo, color swatches, icons or frames. Mia has a big round head with chubby cheeks, a small soft round body, short legs with soft paws and small pointed triangle ears. Her fluffy coat is warm creamy white (#FBF4E6), never grey, with a soft charcoal (#3A3A40) cap patch over the top of her head and her ear on the viewer's left, like a little hat tilted to one side, a round charcoal patch on her back, and a long fluffy charcoal tail that curls into a soft spiral like a question mark and ends in a white tip. Her whole face is creamy white. She has big glossy eyes with mint-green irises (#7FCBAE) and white highlights, both eyes the same color, a tiny pink nose, a small smile and pink blush. She wears a soft lavender ribbon collar (#B79CE0) with a small shiny golden bell at the front. She is a real four-legged kitten and always stands, sits or lies on four paws, the same size in every drawing. Top row, full body: standing facing the viewer, three-quarter view facing right, side view facing right, seen from behind with the cap patch, the back patch and the spiral tail visible. Middle row, head and shoulders: laughing with eyes closed happily, curious with her head tilted, surprised, sad with eyebrows raised in the middle, grumpy with eyebrows pulled down and her fur a little puffed, shy peeking over her spiral tail. Bottom row, full body: pouncing playfully at something on the ground, and curled up asleep with her tail around her. Soft warm studio light, friendly and calm for toddlers. Horizontal 16:9.
+```
