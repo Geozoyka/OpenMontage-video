@@ -105,3 +105,13 @@ Use the two attached images as references. Image 1, the model sheet of Toby the 
 
 - Мия: колокольчик в форме сердечка (золотой, звенит) — утверждено.
 - Солнышко 3D: образец art/sun_3d_reference.jpg, роль и детали — на согласовании.
+
+## Солнышко 3D (утверждённая роль)
+- Живёт только в небе, показывается короткими вставками крупным планом. Зеркало чувств героев, ничего не делает за них.
+- «Знакомит» светом: зайчики в серии 1 — отражение его лучей.
+- Ручки есть (выразительность), ножек нет, в руках ничего нет, слёз нет.
+
+Промпт (ChatGPT; загрузить: 1 — лист Тоби, 2 — карточка солнышка):
+```
+Use the two attached images as references. Image 1, the model sheet of Toby the puppy, is the exact reference for the rendering style, fur texture, lighting and plain background, so the sun looks like it comes from the same animated film. Image 2 is the reference only for the sun character's look. Create a clean expression sheet of this friendly sun character for a gentle wordless preschool animated series: eight drawings of the same sun in two rows of four, on the same plain very light background as image 1. The page contains only the eight suns, with no lettering, name, logo, color swatches, icons, frames, rainbow, clouds in the background or scenery. The sun is a round, soft, fluffy 3D plush character with warm golden-yellow fur (#FFC93C), twelve soft fluffy pointed rays around its round body in a slightly deeper golden yellow (#F2B233), big glossy warm amber-brown eyes (#8A5A2B) with white highlights, short soft eyebrows, a small friendly mouth and round pink blush on its cheeks (#F4A6A0). It has two small soft arms with round hands, its hands are empty, and it has no legs: its round body with rays is the whole sun. In every drawing the sun is exactly the same size, shape and color, with the same twelve rays; only the face, the arms and the glow change. Top row: a calm gentle smile with arms relaxed at its sides; big joy, eyes closed into happy curves, a wide open smile, clapping its hands, the rays glowing brighter and a little longer; worried, eyebrows raised in the middle, a small wavy mouth, hands pressed together under its chin; sad and shy, peeking out from behind a small fluffy white cloud that covers the lower half of its face, eyes looking down, its eyes dry. Bottom row: frightened, covering its eyes with both hands and peeking between its fingers, with a small round worried mouth; sleepy, eyes gently closed, a small peaceful smile, arms folded, the rays softly dimmed; a playful wink, one eye closed and one hand waving; tender, hugging itself with both arms, eyes closed and a warm smile. Soft warm light, friendly and calm for toddlers. Wide landscape format.
+```
