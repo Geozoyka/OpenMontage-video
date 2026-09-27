@@ -234,7 +234,7 @@ The first attached image shows the characters, the second shows the place. Using
 The first attached image shows the characters, the second shows the place. Using the attached images as exact references for the characters and the location, keep every character's design, colors, size and accessories identical, in a soft 3D plush animated-film style with fluffy fur and warm gentle light. Toby is a light cornflower-blue puppy with a white face stripe, navy ears, a white tuft on his head, a few round navy spots and a plain orange bandana. Mia is a pink-peach kitten with a golden tuft on her head and a pink collar with a heart-shaped golden bell. The only characters in the picture are: Toby, Mia. House colors never change: Toby and his mother live in the cottage with the soft blue roof on the left side of the garden; Mia and her mother live in the cottage with the soft pink roof on the right side. Any cottage seen near or behind Toby or his mother has a soft blue roof; any cottage seen near or behind Mia or her mother has a soft pink roof. The sky shows only what is in the attached location image: its colors, clouds or stars. One frame of a gentle wordless preschool cartoon, horizontal 16:9, with no text: Little Mia steps out from behind the tree trunk laughing with her eyes closed happily, and little Toby jumps up happily in front of her.
 ```
 
-## Кадр 37. Играют в ку-ку
+## Кадр 37. Играют в ку-ку ✅ готово
 
 Загрузить: склейка 4 «Тоби и Мия» + фон «сад днём»
 
@@ -242,7 +242,7 @@ The first attached image shows the characters, the second shows the place. Using
 The first attached image shows the characters, the second shows the place. Using the attached images as exact references for the characters and the location, keep every character's design, colors, size and accessories identical, in a soft 3D plush animated-film style with fluffy fur and warm gentle light. Toby is a light cornflower-blue puppy with a white face stripe, navy ears, a white tuft on his head, a few round navy spots and a plain orange bandana. Mia is a pink-peach kitten with a golden tuft on her head and a pink collar with a heart-shaped golden bell. The only characters in the picture are: Toby, Mia. House colors never change: Toby and his mother live in the cottage with the soft blue roof on the left side of the garden; Mia and her mother live in the cottage with the soft pink roof on the right side. Any cottage seen near or behind Toby or his mother has a soft blue roof; any cottage seen near or behind Mia or her mother has a soft pink roof. The sky shows only what is in the attached location image: its colors, clouds or stars. One frame of a gentle wordless preschool cartoon, horizontal 16:9, with no text: Little Toby and little Mia play peekaboo around the thick trunk of the big tree, peeking out at each other from opposite sides and laughing.
 ```
 
-## Кадр 38. Мамы переглядываются
+## Кадр 38. Мамы переглядываются ✅ готово
 
 Загрузить: склейка 3 «две мамы» + фон «сад днём»
 
@@ -250,7 +250,7 @@ The first attached image shows the characters, the second shows the place. Using
 The first attached image shows the characters, the second shows the place. Using the attached images as exact references for the characters and the location, keep every character's design, colors, size and accessories identical, in a soft 3D plush animated-film style with fluffy fur and warm gentle light. Toby's mother is a grown-up dog about one and a half times taller than Toby, a deeper denim blue, with long silky ears and a dusty rose knitted shawl. Mia's mother is a grown-up cat about one and a half times taller than Mia, golden apricot, with a cream ruff and a dusty rose collar with a white flower. The only characters in the picture are: Toby's mother, Mia's mother. House colors never change: Toby and his mother live in the cottage with the soft blue roof on the left side of the garden; Mia and her mother live in the cottage with the soft pink roof on the right side. Any cottage seen near or behind Toby or his mother has a soft blue roof; any cottage seen near or behind Mia or her mother has a soft pink roof. The sky shows only what is in the attached location image: its colors, clouds or stars. One frame of a gentle wordless preschool cartoon, horizontal 16:9, with no text: Wide view: Toby's mother in the doorway of the blue-roofed cottage and Mia's mother in the doorway of the pink-roofed cottage smile at each other across the garden.
 ```
 
-## Кадр 39. Мамы зовут
+## Кадр 39. Мамы зовут ✅ готово
 
 Загрузить: склейка 4 «Тоби и Мия» + фон «сад вечером» (исправленный Claude)
 
@@ -258,7 +258,7 @@ The first attached image shows the characters, the second shows the place. Using
 The first attached image shows the characters, the second shows the place. Using the attached images as exact references for the characters and the location, keep every character's design, colors, size and accessories identical, in a soft 3D plush animated-film style with fluffy fur and warm gentle light. Toby is a light cornflower-blue puppy with a white face stripe, navy ears, a white tuft on his head, a few round navy spots and a plain orange bandana. Mia is a pink-peach kitten with a golden tuft on her head and a pink collar with a heart-shaped golden bell. The only characters in the picture are: Toby, Mia. House colors never change: Toby and his mother live in the cottage with the soft blue roof on the left side of the garden; Mia and her mother live in the cottage with the soft pink roof on the right side. Any cottage seen near or behind Toby or his mother has a soft blue roof; any cottage seen near or behind Mia or her mother has a soft pink roof. The sky shows only what is in the attached location image: its colors, clouds or stars. One frame of a gentle wordless preschool cartoon, horizontal 16:9, with no text: The garden in the evening: little Toby and little Mia sit together on the lawn and turn their heads toward their cottages.
 ```
 
-## Кадр 40. До завтра
+## Кадр 40. До завтра ✅ готово
 
 Загрузить: склейка 4 «Тоби и Мия» + фон «сад вечером» (исправленный Claude)
 
@@ -266,7 +266,7 @@ The first attached image shows the characters, the second shows the place. Using
 The first attached image shows the characters, the second shows the place. Using the attached images as exact references for the characters and the location, keep every character's design, colors, size and accessories identical, in a soft 3D plush animated-film style with fluffy fur and warm gentle light. Toby is a light cornflower-blue puppy with a white face stripe, navy ears, a white tuft on his head, a few round navy spots and a plain orange bandana. Mia is a pink-peach kitten with a golden tuft on her head and a pink collar with a heart-shaped golden bell. The only characters in the picture are: Toby, Mia. House colors never change: Toby and his mother live in the cottage with the soft blue roof on the left side of the garden; Mia and her mother live in the cottage with the soft pink roof on the right side. Any cottage seen near or behind Toby or his mother has a soft blue roof; any cottage seen near or behind Mia or her mother has a soft pink roof. The sky shows only what is in the attached location image: its colors, clouds or stars. One frame of a gentle wordless preschool cartoon, horizontal 16:9, with no text: In the evening garden, little Toby and little Mia gently touch noses goodbye on the lawn.
 ```
 
-## Кадр 41. Тоби засыпает
+## Кадр 41. Тоби засыпает ✅ готово
 
 Загрузить: склейка 1 «мама-собака и Тоби» + фон «собачий домик» (исправленный Claude)
 
