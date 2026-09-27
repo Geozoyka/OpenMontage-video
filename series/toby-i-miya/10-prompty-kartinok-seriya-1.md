@@ -274,7 +274,7 @@ The first attached image shows the characters, the second shows the place. Using
 The first attached image shows the characters, the second shows the place. Using the attached images as exact references for the characters and the location, keep every character's design, colors, size and accessories identical, in a soft 3D plush animated-film style with fluffy fur and warm gentle light. Toby's mother is a grown-up dog about one and a half times taller than Toby, a deeper denim blue, with long silky ears and a dusty rose knitted shawl. Toby is a light cornflower-blue puppy with a white face stripe, navy ears, a white tuft on his head, a few round navy spots and a plain orange bandana. The only characters in the picture are: Toby's mother, Toby. One frame of a gentle wordless preschool cartoon, horizontal 16:9, with no text: Evening inside the cottage, warm orange light in the round window: little Toby snuggles against his mother on the blue dog bed, eyes closing.
 ```
 
-## Кадр 42. Мия засыпает
+## Кадр 42. Мия засыпает ✅ готово
 
 Загрузить: склейка 2 «мама-кошка и Мия» + фон «кошачий домик»
 
