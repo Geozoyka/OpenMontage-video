@@ -1,6 +1,72 @@
 # Промпты картинок — серия 1
 Каждый кадр — новый чат в ChatGPT. Загрузить 2 картинки (первой — персонажей, второй — фон), вставить текст целиком, прислать результат Claude.
-Кадры 1, 3, 4, 17, 18, 25, 36, 43 делает Claude — их здесь нет. Кадры с ✅ уже готовы.
+Кадры с ✅ готовы. Кадры с 🆕 — сделать. Заставку (кадр 4) делает Claude.
+
+# 🆕 НАДО СДЕЛАТЬ: 7 кадров с солнышком
+
+Каждый кадр — новый чат в ChatGPT. Загрузить 2 картинки: **лист солнышка** + указанный фон. Прислать результат Claude.
+
+Общее для всех: солнышко одно, точь-в-точь как на листе. Настоящее солнце (диск) рядом не рисовать.
+
+## 🆕 Кадр 01. Ночь — кончики лучиков из-за холма
+
+Загрузить: лист солнышка + фон «сад ночью»
+
+```
+The first attached image is the sun character, the second is the place. Show this exact night garden, keeping the cottages, the tree, the hills and the camera view exactly the same, horizontal 16:9. The sun character from the first image is hidden behind the tall hill on the left: only the tips of its fluffy golden rays peek out above the top of the hill, with a soft warm golden glow around them. Its face and body are not visible. The sky is deep soft blue with small twinkling stars and nothing else. Soft 3D plush animated-film style, calm and cozy. No text.
+```
+
+## 🆕 Кадр 03. Утро — солнышко просыпается над холмом
+
+Загрузить: лист солнышка + фон «сад днём»
+
+```
+The first attached image is the sun character, the second is the place. Show this exact morning garden, keeping the cottages, the tree, the hills and the camera view exactly the same, horizontal 16:9. The sun character from the first image, exactly like the reference, floats in the upper left sky just above the tall hill on the left, small in the frame. It is just waking up: eyes closed, sleepy smile, little arms stretched up. Warm golden morning light spreads from it. It is the only sun in the sky. Soft 3D plush animated-film style. No text.
+```
+
+## 🆕 Кадр 17. Солнышко смотрит (крупно)
+
+Загрузить: лист солнышка + фон «сад днём»
+
+```
+The first attached image is the sun character, the second is the place. Close-up of the sun character, exactly like the reference: same fluffy golden rays, same face, same little arms. It fills the center of a horizontal 16:9 frame, floating in the soft blue morning sky of this garden; below it, slightly blurred, the tops of the green hills and the blue roof of the cottage on the left. The sun looks down with a soft curious smile and big open eyes, hands resting on its tummy. Soft 3D plush animated-film style, warm gentle light. No text.
+```
+
+## 🆕 Кадр 18. Солнышко подмигивает (крупно)
+
+Загрузить: лист солнышка + фон «сад днём»
+
+```
+The first attached image is the sun character, the second is the place. Close-up of the sun character, exactly like the reference: same fluffy golden rays, same face, same little arms. It fills the center of a horizontal 16:9 frame, floating in the soft blue morning sky of this garden; below it, slightly blurred, the tops of the green hills and the blue roof of the cottage on the left. The sun gives a playful wink with one eye, a wide happy smile, and waves one little hand. Soft 3D plush animated-film style, warm gentle light. No text.
+```
+
+## 🆕 Кадр 25. Солнышко беспокоится (крупно)
+
+Загрузить: лист солнышка + фон «сад днём»
+
+```
+The first attached image is the sun character, the second is the place. Close-up of the sun character, exactly like the reference: same fluffy golden rays, same face, same little arms. It fills the center of a horizontal 16:9 frame, floating in the soft blue sky of this garden; below it, slightly blurred, the tops of the green hills and the blue roof of the cottage on the left. The sun looks worried: eyebrows raised in the middle, a small wobbly mouth, both little hands pressed together under its chin. Its glow is a little softer and dimmer. Gentle, not scary. Soft 3D plush animated-film style. No text.
+```
+
+## 🆕 Кадр 36. Солнышко хлопает в ладошки (крупно)
+
+Загрузить: лист солнышка + фон «сад днём»
+
+```
+The first attached image is the sun character, the second is the place. Close-up of the sun character, exactly like the reference: same fluffy golden rays, same face, same little arms. It fills the center of a horizontal 16:9 frame, floating in the soft blue sky of this garden; below it, slightly blurred, the tops of the green hills and the blue roof of the cottage on the left. The sun is full of joy: eyes happily closed in smiling arcs, mouth wide open laughing, little hands clapping together in front of it, tiny golden sparkles around its rays. Soft 3D plush animated-film style, bright warm light. No text.
+```
+
+## 🆕 Кадр 43. Вечер — сонное солнышко садится
+
+Загрузить: лист солнышка + фон «сад вечером» (исправленный Claude)
+
+```
+The first attached image is the sun character, the second is the place. Show this exact evening garden, closer view of the tall hill on the left and the blue roof of the cottage in front of it, horizontal 16:9. The sun character from the first image, exactly like the reference, sits low in the orange-pink sky just above the top of the tall left hill, its bottom edge about to touch the hill. It is very sleepy: eyes half closed, a big soft yawn, one little hand covering its mouth. Its glow is warm orange and soft. It is the only sun in the sky. Soft 3D plush animated-film style, calm and cozy. No text.
+```
+
+---
+
+# Кадры с персонажами (35 шт.)
 
 ## Кадр 2. Солнышко тянет себя ✅ готово
 
