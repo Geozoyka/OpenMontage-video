@@ -20,7 +20,7 @@ The sun pulls itself up with effort and pops up over the hill with a little boun
 
 ## Кадр 3. Утро
 
-Картинка: файл «02 …» из архива (сделал Claude)
+Картинка: файл «03 …» из архива (сделал Claude)
 
 ```
 The sun character opens its eyes, yawns, stretches its little arms and smiles warmly; its rays glow brighter. Keep the characters' design, colors and the soft 3D plush style exactly the same. The sky stays exactly as in the picture. Gentle, simple, slow movement. The camera stays still. No text, no speech, no music.
@@ -124,7 +124,7 @@ The puppy sniffs the grass on the left; the kitten watches a flower on the right
 
 ## Кадр 17. Солнышко смотрит
 
-Картинка: файл «05 …» из архива (сделал Claude)
+Картинка: файл «17 …» из архива (сделал Claude)
 
 ```
 The sun character slowly looks to the left, then to the right, with a soft curious smile; its rays sway gently. Keep the characters' design, colors and the soft 3D plush style exactly the same. The sky stays exactly as in the picture. Gentle, simple, slow movement. The camera stays still. No text, no speech, no music.
@@ -188,7 +188,7 @@ The kitten runs to her mother and hides behind her, then slowly peeks out. Keep 
 
 ## Кадр 25. Солнышко беспокоится
 
-Картинка: файл «19 …» из архива (сделал Claude)
+Картинка: файл «25 …» из архива (сделал Claude)
 
 ```
 The sun character presses its little hands together and looks down with worry; its rays droop slightly and dim. Keep the characters' design, colors and the soft 3D plush style exactly the same. The sky stays exactly as in the picture. Gentle, simple, slow movement. The camera stays still. No text, no speech, no music.
@@ -276,7 +276,7 @@ The kitten laughs and steps forward; the puppy springs up, wagging his tail. Kee
 
 ## Кадр 36. Солнышко хлопает в ладошки
 
-Картинка: файл «26 …» из архива (сделал Claude)
+Картинка: файл «36 …» из архива (сделал Claude)
 
 ```
 The sun character claps its little hands happily and bounces; its rays glow brighter and sparkle. Keep the characters' design, colors and the soft 3D plush style exactly the same. The sky stays exactly as in the picture. Gentle, simple, slow movement. The camera stays still. No text, no speech, no music.
@@ -332,7 +332,7 @@ The kitten snuggles closer and slowly closes her eyes; her mother wraps her tail
 
 ## Кадр 43. Солнышко садится
 
-Картинка: файл «37 …» из архива (сделал Claude)
+Картинка: файл «43 …» из архива (сделал Claude)
 
 ```
 The sun character yawns widely, then gives a sleepy wink; its rays glow softly. Keep the characters' design, colors and the soft 3D plush style exactly the same. The sky stays exactly as in the picture. Gentle, simple, slow movement. The camera stays still. No text, no speech, no music.
