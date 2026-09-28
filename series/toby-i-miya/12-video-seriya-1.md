@@ -28,7 +28,7 @@ The sun character opens its eyes, yawns, stretches its little arms and smiles wa
 
 ## Кадр 4. Заставка «Тоби и Мия»
 
-Картинка: файл «04 Заставка RU/EN/ES» — видео сделать для каждой версии
+Картинка: файл «04 Заставка» (одна версия, Toby & Mia)
 
 ```
 The puppy and the kitten wave happily at the viewer and wiggle with joy; the title letters gently bounce once and sparkle. Keep the title letters exactly the same and readable. Keep the characters' design, colors and the soft 3D plush style exactly the same. The sky stays exactly as in the picture. Gentle, simple, slow movement. The camera stays still. No new text, no speech, no music.
