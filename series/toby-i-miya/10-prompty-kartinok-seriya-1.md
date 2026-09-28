@@ -2,7 +2,17 @@
 Каждый кадр — новый чат в ChatGPT. Загрузить 2 картинки (первой — персонажей, второй — фон), вставить текст целиком, прислать результат Claude.
 Кадры с ✅ готовы. Кадры с 🆕 — сделать. Заставку (кадр 4) делает Claude.
 
-# 🆕 НАДО СДЕЛАТЬ: 7 кадров с солнышком
+# 🆕 НАДО СДЕЛАТЬ: кадр 04 — заставка
+
+Три версии: русская, английская, испанская. Один чат — одна версия. Загрузить: склейка 4 «Тоби и Мия» + фон «сад днём». Сохранить как `04 Заставка RU`, `04 Заставка EN`, `04 Заставка ES`.
+
+```
+The first attached image shows the characters, the second shows the place. Using them as exact references, keep Toby and Mia's design, colors, size and accessories identical, in a soft 3D plush animated-film style with fluffy fur and warm gentle light. Title card of a gentle preschool cartoon, horizontal 16:9: little Toby and little Mia sit side by side on the grass in front of the big tree of this garden, smiling and waving at the viewer. The blue-roofed cottage is on the left, the pink-roofed cottage on the right. In the upper part of the sky, a big, round, soft, friendly title made of fluffy cream-colored letters with a golden outline, like soft cookie dough, reads exactly: "Тоби и Мия". The letters are large, clear and easy to read, spelled exactly as written, with no other text. The sky has only soft clouds, no sun.
+```
+
+Для английской версии заменить `"Тоби и Мия"` на `"Toby & Mia"`, для испанской — на `"Toby y Mía"`. Проверить, что буквы написаны без ошибок.
+
+# 🆕 ГОТОВО: 7 кадров с солнышком ✅
 
 Каждый кадр — новый чат в ChatGPT. Загрузить 2 картинки: **лист солнышка** + указанный фон. Прислать результат Claude.
 

@@ -26,6 +26,14 @@ The sun pulls itself up with effort and pops up over the hill with a little boun
 The sun character opens its eyes, yawns, stretches its little arms and smiles warmly; its rays glow brighter. Keep the characters' design, colors and the soft 3D plush style exactly the same. The sky stays exactly as in the picture. Gentle, simple, slow movement. The camera stays still. No text, no speech, no music.
 ```
 
+## Кадр 4. Заставка «Тоби и Мия»
+
+Картинка: файл «04 Заставка RU/EN/ES» — видео сделать для каждой версии
+
+```
+The puppy and the kitten wave happily at the viewer and wiggle with joy; the title letters gently bounce once and sparkle. Keep the title letters exactly the same and readable. Keep the characters' design, colors and the soft 3D plush style exactly the same. The sky stays exactly as in the picture. Gentle, simple, slow movement. The camera stays still. No new text, no speech, no music.
+```
+
 ## Кадр 5. Собачий домик
 
 Картинка: файл «05 …» из архива
